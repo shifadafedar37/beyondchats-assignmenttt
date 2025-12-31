@@ -213,7 +213,12 @@ Live Frontend URL:
 https://incandescent-fox-250a51.netlify.app/
 
 Live Backend API:
-https://beyondchats-assignmentt-1.onrender.com
+https://beyondchats-assignmenttt.onrender.com
+(
+The backend application is fully functional in local development and correctly implements
+all required APIs and MongoDB integration.
+Due to free-tier hosting limitations and environment configuration constraints on Render,
+the live backend deployment may not respond consistently.)
 
 Deployment:
 Frontend deployed on Netlify
